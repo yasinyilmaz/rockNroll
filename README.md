@@ -76,13 +76,14 @@ Phonebook lists all domains, email addresses, or URLs for the given input domain
   ```
   python rockNroll.py -f emails.txt --coutput COMB-results.xlsx
   ```
+
 ### Screenshots
 
-![Screenshot 2024-06-19 at 21 32 57_censored](https://github.com/yasinyilmaz/rockNroll/assets/37842751/330f731d-9115-4ca5-b293-938d6e5e2387)
+![Screenshot 2024-06-19 at 21 32 57_censored](https://github.com/yasinyilmaz/rockNroll/assets/37842751/3460352d-fb49-4f19-b9b0-4d76b63eccc9)
 
-![Screenshot 2024-06-19 at 21 33 15_censored](https://github.com/yasinyilmaz/rockNroll/assets/37842751/cc23d3e5-1103-4e61-8d13-856073742679)
+![Screenshot 2024-06-19 at 21 33 15_censored](https://github.com/yasinyilmaz/rockNroll/assets/37842751/1fef66f3-ce8f-4771-83b9-e9d977c3c970)
 
-![Screenshot 2024-06-19 at 21 39 33_censored(1)](https://github.com/yasinyilmaz/rockNroll/assets/37842751/6121c54d-8a81-4ae8-b6b0-5931c4d75cfe)
+![Screenshot 2024-06-19 at 21 39 33_censored(1)](https://github.com/yasinyilmaz/rockNroll/assets/37842751/3dbc4928-c535-47b7-816c-0b92f645dbf0)
 
 
 
